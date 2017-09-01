@@ -3,3 +3,7 @@ generators:
   /webpack:
     keys:
       - id
+  /npm/id: {}
+  /npm:
+    keys:
+      - id
